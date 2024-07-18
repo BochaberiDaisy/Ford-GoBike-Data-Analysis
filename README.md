@@ -28,13 +28,15 @@ The dataset contains:
 
 ## Summary of Findings
 
-From the data exploration, I found the distribution of duration of trips to be skewed to the right. The peak days for the month of February were 5th to 7th, 19th to 22nd and 28th being the most popular day to go biking. 8:00 AM and 5:00 PM recorded the highest number of trips. I also explored the top five most popular start and end stations: 
-•	Market St at 10th St
-•	San Francisco Caltrain Station 2 (Townsend St at 4th St)
-•	Berry St at 4th St
-•	Montgomery St BART Station (Market St at 2nd St) 
-•	Powell St BART Station (Market St at 4th St)
-The user type with the highest numbers what is subscribers who were 90.5% of the users. Male users were 74.6%, female users were 23.3% and other users were 2.1%.
+From the data exploration, I found the distribution of the duration of trips to be skewed to the right. The peak days for the month of February were 5th to 7th, 19th to 22nd, and 28th being the most popular day to go biking. 8:00 AM and 5:00 PM recorded the highest number of trips. I also explored the top five most popular start and end stations: 
+
+- •	Market St at 10th St
+- •	San Francisco Caltrain Station 2 (Townsend St at 4th St)
+- •	Berry St at 4th St
+- •	Montgomery St BART Station (Market St at 2nd St) 
+- •	Powell St BART Station (Market St at 4th St)
+- 
+The user type with the highest numbers is subscribers who were 90.5% of the users. Male users were 74.6%, female users were 23.3% and other users were 2.1%.
 Thursday had the highest number of trips from the weekly trip analysis.  5:00 PM and 8:00 AM had the highest number of trips from the hourly analysis. The station that had the highest number of subscribers was Market St at 10th St.
 3:00 AM had the highest duration usage per user type and Saturday and Sunday had the highest daily duration usage per user type. The user type with the highest duration usage was customers.
 
